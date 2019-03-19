@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\source\repos\algot1.21\algot1.21\source.cpp(116): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+c:\users\user\source\repos\algot1.21\algot1.21\source.cpp(94): warning C4715: Tree::Search: значение возвращается не при всех путях выполнения
+  algot1.21.vcxproj -> C:\Users\User\source\repos\algot1.21\Debug\algot1.21.exe
