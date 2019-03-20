@@ -1,0 +1,3 @@
+Input file contains values, and the value, that should be removed with right removal.
+Output file should have the final tree vertices in the left pre-order traverse order.
+Basic training task.
