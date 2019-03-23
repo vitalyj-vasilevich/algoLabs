@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\algos\algot2.69\algoTask\bin\Debug\netcoreapp2.1\algoTask.deps.json
+C:\Users\User\source\repos\algos\algot2.69\algoTask\bin\Debug\netcoreapp2.1\algoTask.runtimeconfig.json
+C:\Users\User\source\repos\algos\algot2.69\algoTask\bin\Debug\netcoreapp2.1\algoTask.runtimeconfig.dev.json
+C:\Users\User\source\repos\algos\algot2.69\algoTask\bin\Debug\netcoreapp2.1\algoTask.dll
+C:\Users\User\source\repos\algos\algot2.69\algoTask\bin\Debug\netcoreapp2.1\algoTask.pdb
+C:\Users\User\source\repos\algos\algot2.69\algoTask\obj\Debug\netcoreapp2.1\algoTask.csprojAssemblyReference.cache
+C:\Users\User\source\repos\algos\algot2.69\algoTask\obj\Debug\netcoreapp2.1\algoTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\algos\algot2.69\algoTask\obj\Debug\netcoreapp2.1\algoTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\algos\algot2.69\algoTask\obj\Debug\netcoreapp2.1\algoTask.AssemblyInfo.cs
+C:\Users\User\source\repos\algos\algot2.69\algoTask\obj\Debug\netcoreapp2.1\algoTask.dll
+C:\Users\User\source\repos\algos\algot2.69\algoTask\obj\Debug\netcoreapp2.1\algoTask.pdb

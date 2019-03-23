@@ -1,0 +1,6 @@
+The task is called water lilies.
+There is a long line-shaped pond, with water lilies growing in it.
+There is a particular amount of mosquitoes on an every water lily.
+Input has number of lilies and weights of all of them.
+Frog can jump over one or two lilies only. When the frog is on the lily, it eats all the mosquitoes on it. 
+The output should be maximum amount of mosquitoes the frog can eat, or -1 if the frog is unable to reach the last lily.
