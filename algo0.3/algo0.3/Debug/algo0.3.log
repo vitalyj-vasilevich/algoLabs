@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\user\source\repos\algos\algo0.3\algo0.3\source.cpp(20): warning C4244: инициализация: преобразование "LINT" в "unsigned int", возможна потеря данных
+c:\users\user\source\repos\algos\algo0.3\algo0.3\source.cpp(26): warning C4244: инициализация: преобразование "LINT" в "unsigned int", возможна потеря данных
+c:\users\user\source\repos\algos\algo0.3\algo0.3\source.cpp(29): warning C4244: инициализация: преобразование "LINT" в "unsigned int", возможна потеря данных
+  algo0.3.vcxproj -> C:\Users\User\source\repos\algos\algo0.3\Debug\algo0.3.exe

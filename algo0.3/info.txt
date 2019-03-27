@@ -1,0 +1,2 @@
+Matrix chain multiplication task
+Standard dynamic programming task, https://en.wikipedia.org/wiki/Matrix_chain_multiplication.
