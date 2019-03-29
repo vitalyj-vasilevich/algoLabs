@@ -1,0 +1,3 @@
+Input file contains array of numbers and their amount.
+The task is to chech whether the array can represent a binary heap or not (answers "Yes" and "No" respectively).
+Basic task.
